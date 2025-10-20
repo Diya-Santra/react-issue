@@ -9,9 +9,7 @@ const Contact = () => {
         <Link to='phone'>Phone</Link>
         <Link to='mail'>Mail</Link>
       </div>
-      <div>
-    <Outlet/>
-    </div>
+
     </div>
   )
 }
